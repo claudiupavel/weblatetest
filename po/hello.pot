@@ -38,3 +38,7 @@ msgstr ""
 #: main.c:14
 msgid "Thank you for using Weblate."
 msgstr ""
+
+#: main.c:15
+msgid "orp-ge-test-1"
+msgstr "Test 1"
